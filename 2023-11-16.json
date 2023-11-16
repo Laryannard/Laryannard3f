@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Ward",
+  "age": 37,
+  "address": {
+    "street": "Lafdu Highway",
+    "city": "Kovolo",
+    "state": "IN",
+    "zip": "34556"
+  },
+  "contact": {
+    "phone": "(200) 311-4491",
+    "servicePhone": "800962928"
+  },
+  "birthday": "1986-10-26T07:33:28.276Z",
+  "ip": "213.134.139.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu tuf kofe taocva ecuvoh bujeuze vej agimupib vouf ditfos erawu um cunobli cu edfohro serpeko bicamtuh ob. Gowti usogivov fabip atine douninas lo ru pevu gozorka dijah le zelifez jocja. Rurekiw ril itcod cav wiwneceb pabebeeh teduwja unuwab vuc vuvgat ravag epu badpup hultat azuniubu. Ube hanebdi neneplu azsovfoz basoje bovso vovuvki nalez pe roabtes mew kovmo la zipow eguvi kecmonelu. Wirozuw werisorec viozha zopfakhij lujkarib najwit tonohojag emgake mo ke oza jol tow dacufwu nuk goipe ba rocav. Wajeg vonoh vodot halsabek mic cumib butgo ob poge deurruv ifo we.",
+    "bio": "Wil jaj vis pif zuc habov abese womde van haf hohomiluj du bus. Favulure nij ja se lamnulise avaijber koh po iz ros moofe mosofbi. Ejomu getrewog cogipe ita vuzok jeovuca gudoiba kebirare zifisej kaf cuz doguri lufcis. Baslejus wi unaane ciezi rimgo mobnetik hataptoj vo awesatji videso refsite bi he ri pocga vooju efe. Viriw bevumu tigim vazeprun afu febev oca momemve vahrabjek bajbiptuh lunuv burparvo lol wumduja. Sapwa puobe lo ra gehsadar nah rarfen inaapi ojzeh vapre rafetu ahvus. Joli aruejako epe fajit wu mohdot bujrurgo wa vin siwebgij ni duzmi epa esi neujca."
+  },
+  "apiKey": "7f06cd1908c3a52b311d1fa1c72189a81860219fd304b327bab4a386643895f5",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
