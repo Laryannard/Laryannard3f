@@ -1,0 +1,26 @@
+{
+  "name": "Michael Oliver",
+  "age": 52,
+  "address": {
+    "street": "Wigu Place",
+    "city": "Dijete",
+    "state": "MN",
+    "zip": "00026"
+  },
+  "contact": {
+    "phone": "(723) 348-6536",
+    "servicePhone": "800725794"
+  },
+  "birthday": "1964-03-06T01:59:48.713Z",
+  "ip": "214.227.18.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Jipalos ik avgodud gise soderi bovojih ekdo seunumin tilufo bowub gu ako. Wa hewu uza ja kusze ab zal moefnok anezefval cos watse kodja je bivta soszebdul tumilu ve. Forka dirageva ziwutez idcucip ikitu jutza egezaljid lifziw moj paavmow ire potgec ceffut. Givi ushic ukehizol mo tizawfak heri ivil roczufgen vaj ulur jo cad piv viof rah ir zabkuim ref. Gesi nuogovo ho kifev apepmu muzeg putetagop veruig jowandor vuceg jin kulawa pence udo. Bes jib of pajeham cackonsi benot lo raekuru hec wetbi nefso pok de voimjul mo loc fu bifmawe.",
+    "bio": "Ucavop gavkivhik akogin tuze bemahis tigrutebi ha hadguta tiv oz ole wasjeeva wahlot golo zim nidjakaz ficgihpat. Gu dadcilup wena dakal sadkipti owegazi vuuda zag ka su age no cegeci zel. Repgefbu forsi cuhte fuf jilinumi kojho pume bugkeri aduciwso dij irovoisi dapaheve lur nik. Ackigu na miltufcok vizat hir ajvu ti ver waduj umusinud ilupo iszi sonaec lebava na gega."
+  },
+  "apiKey": "539b8c8fb5dde2648747fd40dda1bb1b0eca229f418a2d151b3613853e0177ff",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
