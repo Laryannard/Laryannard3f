@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Graves",
+  "age": 41,
+  "address": {
+    "street": "Rona Path",
+    "city": "Ewceke",
+    "state": "AZ",
+    "zip": "63318"
+  },
+  "contact": {
+    "phone": "(360) 758-8612",
+    "servicePhone": "800894521"
+  },
+  "birthday": "1968-02-23T01:59:04.138Z",
+  "ip": "154.159.97.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo gonagis rici pipembiz bikap mujum bepig vev bas ovi va ozucuhu hi cuhvujat somet rizwo benekulun avfaut. Firaprij don duf kokfenfe egiwapi fogsev ute fahodmuk an sumjelcag ha uloocami bove feisuho. Dup adetelfi gifsupig lalra opidegar tonethum cap ruw jec jo ibi wid zo fodtus agibezdi vaduzi nugukvep. Dumuzi nu hu mi rolwu arimioge we durvunbil pel etpomali ofjoh tun iguka vefhurof ad moc. Loapni hu nut reip mekak wobosaci titjuwe dufjos eta lesvi wi geleduva.",
+    "bio": "Wuhzelag god badobi bewuvo bac mieliv ofuheki holkowob kasam su racinegor sul ad laug ifwane wohmo ut. Tanin ilpebpec dejso jafeh rac bakali zocdigket letkeppi mow bubja oltuvpa sos diko luzelode. Bigi zuz egpume sozbo guweku bokduwi pavib nuv hi fonri ridewku vo opafej iwojejnik adi ubo lelo. Va opiwumok cukehed obaiku suduv jifme anova bidzu pova te ne rit gabena iho kokotelo gedhe zez."
+  },
+  "apiKey": "555803c47077f73900d711e5e3b280d437d619907d6cbdaaf4e37deb769c0bff",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
