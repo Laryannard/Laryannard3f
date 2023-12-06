@@ -1,0 +1,26 @@
+{
+  "name": "Lucinda George",
+  "age": 24,
+  "address": {
+    "street": "Berew Road",
+    "city": "Jekiswem",
+    "state": "VT",
+    "zip": "65440"
+  },
+  "contact": {
+    "phone": "(337) 741-3582",
+    "servicePhone": "800878242"
+  },
+  "birthday": "1987-12-02T09:37:19.520Z",
+  "ip": "204.25.63.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Ura opalatib hu ano olca ekdaco otipuwne idufunaf admafal ifala vekrekefi sihapero iwi nuvutne se wichuw otenarko zedikci. Onoivpih hozerba zav izi lok pim tup zin teknon dag mum ugsetsan gecek uwar virosjo ecejolwe kop luvmije. Doc jacuab oz eri mimdet sade noilse gipezpom ifufu rer ducbi fi unnamu unpab uvum. Um ijuer maen va kagroh babakew mispiga guhus jobvohzej inu socrisgas mofewipe muw iseze ajomej comijmi. Fagcaf ga pabued vi ta ta aju jo ja ivavebu mufza kasa hife vezuci vuile gih tedga.",
+    "bio": "Wuf ben dek ocmedha lesvuv favucitu ugla ibsik vip dujbijga no atibiloz nemafce epiovi. Dim lig tamiku os vasaga juv lo zit lumubhu si zov fac wez dodu zuho sit ceas. Ted wucsitaz ucecubo adufa vita afelaka gaminza ohgode vez zitirfu jicoviipe hobekgu etu ina kot. Jaipa ciscabog mef rir uj di ribemisoh os ajiufoni ippan helali hi. Loljuvru rasemohe otpelruv tabwim rotuj za mujet ru ilbusaza liag ohegut ma rujdos lu oz godihajis ohake zenbi. Kuv do te ti nutudhur ibahonzo kuzkizut piv vurivep inoli cefobwu gabeda nap sov ubsa tetjosnat. Pafedome fa iz ekotuf peapde taj lu hu dad cekepu bujhowda ab vogle gonfu noomo osku arapopi nic."
+  },
+  "apiKey": "09c319ac09f81535e5a3b8b570e0a301afde24bfca15477b2f4bdded7b1e5e37",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
