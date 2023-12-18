@@ -1,0 +1,26 @@
+{
+  "name": "Ada Chambers",
+  "age": 61,
+  "address": {
+    "street": "Jate Point",
+    "city": "Venvogi",
+    "state": "AZ",
+    "zip": "90180"
+  },
+  "contact": {
+    "phone": "(804) 349-9180",
+    "servicePhone": "800391885"
+  },
+  "birthday": "2003-03-11T16:02:18.369Z",
+  "ip": "146.70.136.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Ava az woj uljofu aki ipvakeh dicole deh ubhu gewsacfu ke zurvuw lorogho taljic. Sav uro adujivab ep osu ma gow kurop doawzu sutkow zo hosocjo li negun veigbo ta kahvot ka. Of heerukec nodniren vorik ci ge ivuhuz ak seroaj zapkew fihav wodek ok roker benat zotjugba.",
+    "bio": "Nago rejkan watru gam bep rukdepvu ige cuktu hu leg hekwuh lic lojewle foj. Furej ud kuh gahif navima oh ihimas nih egecehvib ipo seagek argim ci riljic esnoz irusofan ewwupre colof. Cezhe ko poshazod co suci wocca jufvum powce idlatkot zanul sepo edni puz hos jajuf vav gep. Aluewodi kec daz kal nohtepsah bemki bihpasfif ivkovja comdiplov goluwu kogaseha uppona ut. Janujfic deg ebawho fiw ekevup la asbo det mooni hi waogurih ufefe veme gojivhiv dig ribi jahmiena el."
+  },
+  "apiKey": "50a82e4c8999e78cc3333f324a4fe358afb3ccc1b67f1a7165a10dee14734543",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
