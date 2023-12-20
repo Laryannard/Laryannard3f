@@ -1,0 +1,26 @@
+{
+  "name": "Elva Weber",
+  "age": 65,
+  "address": {
+    "street": "Mejcu View",
+    "city": "Bopgojot",
+    "state": "NV",
+    "zip": "97063"
+  },
+  "contact": {
+    "phone": "(357) 443-8176",
+    "servicePhone": "800448921"
+  },
+  "birthday": "1962-02-28T20:00:20.224Z",
+  "ip": "178.15.47.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Hac be egvi ic gekevloj fibel joserzoz fusi puzic ba her ocevifzi od jufupeg nog kezce. Dis umuufi uczetbe tu eve efelocu vusbo coliafu picsoc tovecrog cager waja. Tebepaohu zup in kuavi lan uzu lopemkus lere bog jofkegun ob tupuzi siwla.",
+    "bio": "Tilwudmep ercucih ma hisjuf ni veslup ihosinu vagi uro hidi ka kuzotvud zuk gem iziwog. Piraazi hasgif ficaji padbuc di gawe woipu as fu obmu cuenosil ob ji fap bo zabca. Tafodo hatfoldo uwe vicnemfu fuceroet vijco foc makvacep zu luflasju zuz gemkampe jutvo to le. Okdic lof ebu jovid pa bi tid nob wizviv kiz le vak rifti ri ugnom hajtoofu. Pu hatu baila hu ka zuf iwevidilu jenuog toj foguk tivuk kassi."
+  },
+  "apiKey": "f475b5d1b1b6b29bc4db316d255e9195f434462cfcc0e7b328aa18827ba6408f",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
