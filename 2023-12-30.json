@@ -1,0 +1,26 @@
+{
+  "name": "Joe Walters",
+  "age": 57,
+  "address": {
+    "street": "Botat Pike",
+    "city": "Duoruuso",
+    "state": "KS",
+    "zip": "12857"
+  },
+  "contact": {
+    "phone": "(328) 775-3635",
+    "servicePhone": "800858166"
+  },
+  "birthday": "1984-10-10T19:52:52.935Z",
+  "ip": "153.252.116.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Iffipiro rer ofigaphi monro uboku hudozu bosad ujadiufo fe dontarno ojnonuh li naccibi. Etozicbeb komnad nuv ifjop ke bece poewi gide no nazheg hofir jeerep nakil. Pomiribab te how cuc ipunizu rimosgub cojfi awsep rig asolowik tajagpe dugapbiv ew reeju atucelzih. Goljac bizetob dapok ro muk sokeswuk riz bicso regodhuk wersoveri wiuluwu lat.",
+    "bio": "Bafiv hebbefer aguduco kolila foihosi biho musak bunpavip jorcav hipivomiv dapuh row vitsawdo ba cik. Kiv tewcono zeg warin jew urafakob hiwaf zoktik sotehsuc om ji geruv lal dagivbec vibgum eguottep uzuzefuko cilaw. Bube caedo ra ecime hud dewhihosa fecurud ifauv upo vidpeh jag buwiw. Jemeaf otozihuk hihlu komti jeakoriv naoki ikofol vod otocoj va bi ezutog oke umabulci vez. Cidgo wakbo apukiabo nevewe fussehu tusva ac ta doup nian sabcuso dowmud puacho agesonkus gagolasu ot. Nowi re fe necgu nujtizis warutunu lahah nubbe giz vepus caim oci umzed lut du nottizif cefzipok dupango."
+  },
+  "apiKey": "9f96fa7f53106cb9a04900db35f26a1184da6c2a705335443e3898382998420a",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
