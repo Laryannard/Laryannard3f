@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Atkins",
+  "age": 25,
+  "address": {
+    "street": "Zekaj Glen",
+    "city": "Letafjim",
+    "state": "CA",
+    "zip": "53293"
+  },
+  "contact": {
+    "phone": "(522) 496-6182",
+    "servicePhone": "800142112"
+  },
+  "birthday": "1980-07-11T10:57:47.954Z",
+  "ip": "144.197.11.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Rikrog uni zovoh coz tibah wud uro par zubrocbi gamidiw etutoh fe tojojvav wo neozgik to ru. Poicmu gadadog posig ruju ummi ci cocidnum alaase mogepap caz atoacti kewejap muw viwogiv wikvo. Ri cis fisirigor moad ihi ru emkew mamud besi pa sowupato aw fonad boratut cuwpolza. Opfavmud hel hohgotan momojce dofasat lopfuza jalij og tijepufi jasi nejzuco vulcuk ziaho ukjeve uzcek.",
+    "bio": "Zudires be bigi cuc coeguho bocmimah ma gokkitgoz kulut pakpit fizik cewe jedamcop nip fo ucamohuj. Piznedtel picriba ranom colmogsiz nieveneg lijaf pihruvwi itkim peg vec rew azeidata bazel ut roirmus guj. Hivi fozmija ewsu likzikel jod uca ojifevlo sodiluse wawpij wegre tol lauwupi letoltuv zimo mazotos. Jezo amnaksim jammulni ejofe evjufa di ujazife uku jiczuvvo cervos on samni tanepi zoebvo kumanes. Tajpa ipahuhu ankik giw alopafun mufjofis cujsu desgip vorowi mehetej usome fovgij jobraese avize be apopu mi."
+  },
+  "apiKey": "56dad0c2ae2462c5387cf0067e94f26f93d96db7c83e78b29f475a6cd1cbdeab",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
