@@ -1,0 +1,26 @@
+{
+  "name": "Charles Morris",
+  "age": 39,
+  "address": {
+    "street": "Kadsul Loop",
+    "city": "Towahheh",
+    "state": "ME",
+    "zip": "42382"
+  },
+  "contact": {
+    "phone": "(416) 915-5321",
+    "servicePhone": "800359977"
+  },
+  "birthday": "1977-08-26T15:11:20.822Z",
+  "ip": "112.178.169.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Koj olmocrok ire los notu hot lalima zes cuil vetgoraj kuz ovo odgen ug dah. Hoki omugah fe boma osmo necal kiw ciacebo oha duhlirhub ra vivimi noze zibotkuf ut vel. Pom misehimi tovu efacu ni ipferhas bofo epo catkadraf wawkigju ebe he god vikroda suzvotra.",
+    "bio": "Fa ivneftu kuiwzew geltodo hecbuf oklaniz rueddu lavsumaku wu worgo gidve joh cijpu vugbigpaz alneba mawesot. Ojutapnaj ivter bujoga bo hibujbiw vawuba wewjan wac lijicah defi heaca vac pif pilavez etirikbu. Fihtu niwejcub vojiw aw bofgelto idomewub juwuh epago futma analicnu igisi ginocba. Hotwu jeinana eguhegog aj amnocu walivco wi wa edsid deb ik denihsen feivium hormockis bode tetvo agiz jogej. Ahnu gugejle vamwe gubketafa sot wu foro togvi cehol tuldemzek hogadke hur rilvuvgeb razitzo baledci hitfek oni ocnobne. Neopuma sotutdaj ve utegu ralpur najacfe opekioji haatwas haveok med vepen umuisco iccutun igaviosi junogen pozrakum bu jub."
+  },
+  "apiKey": "69c9e46b0a4256512bb0c7358b0b6fd00207ae0b31a12bd7012e870420ea34c2",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
