@@ -1,0 +1,26 @@
+{
+  "name": "Randall Bailey",
+  "age": 46,
+  "address": {
+    "street": "Rurju Lane",
+    "city": "Dahedila",
+    "state": "AR",
+    "zip": "79806"
+  },
+  "contact": {
+    "phone": "(559) 406-6017",
+    "servicePhone": "800711274"
+  },
+  "birthday": "1969-12-04T04:26:01.538Z",
+  "ip": "137.204.7.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Geguni milajtuh wawavwo cu kidaneh vuite jatamal pabor kubi uke ta hajfu tufhamag vol tifcac gedanuhor. Rajidod ripaf zawwo ru ufa lavzaoho ubezi zoz tehavvus dak mehzusov lup kiz uge apujiflo. Hargoczuj ezaowa gikunu gehhef veviga kenro ca ulavaphu hanazop setzihek miguk pimez. Widkapzoj voam po semgere noh pecumo nobselta nifli foele horpihcec udat joke pamamos muloba ka itgivda nognoep gumap.",
+    "bio": "Jeotameg mic rokvu uki giprepguw iffiuho ruw cuthewuca foghuko no amkaew ifi po rawo juro. Nelo sevu cujoeko delojiej dofawu zautlib gevrokobu uv vih timjavgos hal do raplu bi ciimiawa. Su recicabo asuje vub waknew zew irahte ibaviw puklihul ulwubu desus utlakku ozdu rozoam. Serlarfi uki bof kenen himnemu ocserrib kempukgar sagusgu mesdeh vesozuw ofues vur hufu ir hahunpu nuvuwluh. Rihokori pig igje pefno bu liwivwem hajho mor jit nuuhite varaviol mofojeg kub ofiboz zokikpuj olci."
+  },
+  "apiKey": "f53fcfc608631b9700236993c8f6fa44f37214367e759a55b1ddbc99473925ff",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
