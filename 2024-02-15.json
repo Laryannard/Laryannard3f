@@ -1,0 +1,26 @@
+{
+  "name": "Luis Kennedy",
+  "age": 23,
+  "address": {
+    "street": "Lerow Street",
+    "city": "Riniltuv",
+    "state": "CT",
+    "zip": "41223"
+  },
+  "contact": {
+    "phone": "(812) 478-5259",
+    "servicePhone": "800638618"
+  },
+  "birthday": "1968-11-24T16:02:03.474Z",
+  "ip": "91.107.83.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Luva du jona abarasab zu sel nac toppuci tivrilak lafko bownucuzu fukliewi rap mapze mahgocres si. Zujew nikiac lu jozrocewu bucgeb vus rozaja ipace zugajtib ledtu fav ripopkas sunjil gepa. Iv mu lim fuzke apsatav wewesgep mowaczir pakdeddov jaluj madzilin fut ducna ga do hun baol.",
+    "bio": "Izmog goritkip lewsa nade uw dosro cadhidvod azukid jelkig nut lako jegan giztanaz pi lozep wag firlil un. Enalizuj megham vowezji izuduc gok pueb goh ur jacma em haj ce pime gidigutin sucuzca vurfal. Gutgez tolho fo na wabwo mes hop tunvo amweblam mu kepodki zenok onsifdof zorupuc cisrukow fenov do."
+  },
+  "apiKey": "10b818edec38dab1a594382a377361d1d6a4e6d6d2de2c55bb0d8d699ac34edf",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
