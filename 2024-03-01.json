@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Hicks",
+  "age": 33,
+  "address": {
+    "street": "Icuole Pike",
+    "city": "Vevalem",
+    "state": "NY",
+    "zip": "26578"
+  },
+  "contact": {
+    "phone": "(588) 556-7421",
+    "servicePhone": "800316149"
+  },
+  "birthday": "1994-01-21T12:20:12.604Z",
+  "ip": "36.163.214.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Narog rep juczov balek peacli fusah cawdilos biwoba helki pimu hilas umezo so. We fi cusag zifbupo fop beppicja hijgaj zaohnew gazheh melovagu lozidzuz cupsun kunubker di fad. Ucuzjoz lizuj koala og anowipag rizofa mehra nozos galmawi jenzov wownuur ocu bihu wecud emevi.",
+    "bio": "Zure zef ogra adoac ev ruji ukjivguk genage hezzik kig fid oh tukfep julluv vodumi oro. Gauneno rewalaw cokfe fida rifrabro zav fit molnemud ibemoonu zusouza laldevol kulinvi. Ulgi kugbo moscefku jekifu mile maw mous gi dili givih necru miciveb afozus ojlus iv. Mehanug ah tem low ipa wewpun udmal dutronmov rablofep dokrud bolud opmutuj pob arol."
+  },
+  "apiKey": "4ab5fab582e165f2aa3b691356ab2021686f0b56e6de59987140f6140d7b183e",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
