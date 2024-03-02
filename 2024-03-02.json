@@ -1,0 +1,26 @@
+{
+  "name": "Dean Wells",
+  "age": 56,
+  "address": {
+    "street": "Mopi Park",
+    "city": "Badhupaw",
+    "state": "UT",
+    "zip": "76310"
+  },
+  "contact": {
+    "phone": "(610) 548-5915",
+    "servicePhone": "800995438"
+  },
+  "birthday": "1976-10-10T02:08:45.014Z",
+  "ip": "190.243.22.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Johzup vano elke rakozwu to matbinin mekavmow seuh cofub nakef lume pa fus. Da kesew hupli bup simugcus bagu bo da afuki wacwi efovena ifnetif efo ci li ju. Etesi hulhe viamicev vuwdo solfoh gapcazohi ini hirakba golobeg cicas tagmogfa gupfavoz nemav wazebhuk lu.",
+    "bio": "Ru luzu udaposma seojo zo lolpusaco tohkuzsul itpunva wene kefo ci fu izele go. Heznuskop non toh pilpoca livucil ufa cinemu aba kuvweka pi cov caumwis leada hiku. Jasguzu fe uz pel pe fovurlo jewhuipa daczop kovlac ez jugojaro cular zocendu vowbefo juoloce zekeplo esosovup. To pe bu comeh maf hos li wuzo wihkav boza imazevawa silacu rit hot ga enirseb uneewujuf tu."
+  },
+  "apiKey": "b293cb27e2f184e213e44052a53a9a9b1ef9b1d46b427f1cfac51ed750910d44",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
