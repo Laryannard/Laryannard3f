@@ -1,0 +1,26 @@
+{
+  "name": "Paul Blair",
+  "age": 52,
+  "address": {
+    "street": "Hola Grove",
+    "city": "Uspoiti",
+    "state": "NV",
+    "zip": "59821"
+  },
+  "contact": {
+    "phone": "(555) 953-8379",
+    "servicePhone": "800139382"
+  },
+  "birthday": "1973-03-31T19:33:11.585Z",
+  "ip": "50.134.30.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Vibcigro hijukzam sa evi wu wa gadnab deznable tufdaz bec gecved ri feera sodnavpoj. Dij fok bij viween kopewvid eno halgatig va taghuc kemed tob wedawri fur joar se warajug nid div. Ta beb ni weru vavradab kurgisom lo mo ciluskos jehe jutab fajgajkas kupen. Fe supwum wades co udebuda numuj to pakvan zap gazduwi majcaf wunizud.",
+    "bio": "Masken jeruwobo fo duwza du budgev jaweil jaftiha rokede olkuhom domazolu vid hanpi cawoleulu. Lopke pera cupbupji warki emsudlu pigaulu mikjahtaz kuvu ijorutol upo igif nezlerbi. Aj karkuh kovjaw abogoflow ji honti ko saroga pejsanaw juhgahi oh pu kaajsoz puzrir le."
+  },
+  "apiKey": "92b5ddebf4858dec678ce0a3594b3dde6538cec7b016ee03ad1ea80a415b7115",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
