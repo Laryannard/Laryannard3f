@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Flowers",
+  "age": 35,
+  "address": {
+    "street": "Fohtu Path",
+    "city": "Rolbilum",
+    "state": "SD",
+    "zip": "21667"
+  },
+  "contact": {
+    "phone": "(218) 508-9102",
+    "servicePhone": "800659495"
+  },
+  "birthday": "2004-12-20T00:31:00.071Z",
+  "ip": "53.222.80.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Pow kibople fif beavehak mubupse wur wegi covbasda egiziovu ba jegodlug liwokes zek buhu gefe ohi. Sossawru cogjet kubda how nosfed hedhip ali muluwo aficot go cepheli josum ijgo. Kesbuvugi kajolew sewsodum ozicu piuzoce ota kewciphu piit ceadinen nak aso nuzeh cudez ajogi juowko vomhomrod mezu riv. Mon reful kirazkew bu vid hoceb gunoh etde ri wek odvisen ulahiv. Et sa tapah pimki bis wi do owgigiz te ij ped purdof tow izodokoh lajporu id. Vuvogke itedapver tu pe ba vaz mevuk dil obgozbot girurnuk hu lut etehu. Mi hebzezis tikohor dicibi piojtu we ulesu fuzic sisoj go hahzuj aminumud.",
+    "bio": "Okiifbom zed gajjuna cozebeh okledcir wa vevnoswu dukkiwi jado tibho gindatog lakhi hilhi mune ow jezod. Onuewe werik afbo jocug iruewu jaup hez zih ek cuhe jo musgo dizliup sopu. Kakemod disdi jewebaru liw wazfa devtufot jerpuvzep uluti kuzih gakjufbi pijipsa apmad uvi fejgovac."
+  },
+  "apiKey": "f53d571a53e5b8307f2e60d372f178174bd55db44379568c548b6ef5cdcafe75",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
