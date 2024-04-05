@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Smith",
+  "age": 53,
+  "address": {
+    "street": "Zomsi Path",
+    "city": "Dakvitap",
+    "state": "GA",
+    "zip": "92473"
+  },
+  "contact": {
+    "phone": "(326) 939-4900",
+    "servicePhone": "800918261"
+  },
+  "birthday": "2005-03-11T17:28:35.815Z",
+  "ip": "50.134.88.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi gagumfo nari jic rizagev na kive lusbi zofimned mojbawjo wuhus mesa. Ihu og ta lobupi fieporup hohog bo riv unluc ejafok rowe zolatka vacocvem gamos lum. Beaho ripagi ohi ug mohjipi zugtok ge ri ufipuk dilug oho dabfuku aradumiw uc ride. Macu cinud vaf vilajal ci fuktewoti co bebero nu omiwi zehaohu mo beezi. Kisvoc elabiciwo omsibati votse eg doisure ti talka iwafikca niawpem azu bisi oto wo ag sona.",
+    "bio": "Nu ca panhogeku ih rap majilna corejfi umade wazra vusaw roab ibsunu kenad dikohu azjev. Go rurazje widem jusjis ji keezu uvgajvu je dijanewuj agziva bagufbu bas ru. Sellezje zuin dop jo avu ebilebci hi fir gof oppizpin bi uccoc uz zecep zopoto buzso."
+  },
+  "apiKey": "ab7d68248ba6ff6b0bca1b1c4e659b582ebebe94ebbec6a6583ce346a4cecc72",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
